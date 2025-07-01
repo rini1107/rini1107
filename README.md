@@ -1,19 +1,24 @@
 Hi, I’m Rini
-Data Scientist | AI/ML Explorer | Viz Storyteller
-🔭 Working with: Data Analytics, Business Intelligence, Neural Networks
-🌱 Learning: Deep Learning architectures, LLM fine-tuning, PowerBI/Tableau magic
-💬 Ask me about: Data storytelling, model interpretability, or why pandas > Excel
-📫 Reach out: LinkedIn | Pronouns: She/Her
 
-🚀 Projects & Leadership
-Built RAG systems (certified by IEEE & SingleStore) and AI roadmaps for scalable solutions.
-Led a 100+ participant AI hackathon—managed teams, judged prototypes, and survived on coffee.
-Emceed tech events because someone had to make GPU jokes live.
+Data Scientist | AI/ML Explorer | Viz Storyteller | Web Developer.
 
+🔭 Working with: Data Analytics, Business Intelligence, Neural Networks, Full Stack.
+
+🌱 Learning: Deep Learning architectures, LLM fine-tuning, PowerBI/Tableau magic, Web Technology.
+
+📫 Reach out: linkedin.com/in/rini-pr/
+
+🚀 Projects
+1) BFSI using Machine Learning
+2) Flagging junk property listings in real estate using Machine Learning.
+3) Music classification using Deep Learning.
+4) Spam detection in Quora using Deep Learning.
+
+   
 🛠️ Toolbox
 Python, NoSQL, PowerBI/Tableau, TensorFlow, Vertex AI, Prompt Engineering.
 
 📜 Certifications
-Google Cloud: Prompt Design in Vertex AI
-LinkedIn: AI Strategy, Copilot Prompting
-GreatLearning: Cyber Forensics
+1) Google Cloud: Prompt Design in Vertex AI
+2) LinkedIn: AI Strategy, Copilot Prompting
+3) GreatLearning: Cyber Forensics
